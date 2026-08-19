@@ -2,7 +2,7 @@
 
 A powerful multi-language plagiarism detection tool designed for compiler design analysis.
 
-## Developed by **Himanshu Nainwal**
+## Developed by **Komal Rauthan**
 
 ### Features
 
@@ -42,4 +42,4 @@ A powerful multi-language plagiarism detection tool designed for compiler design
 
 ### License
 
-This project is developed and maintained by **Himanshu Nainwal**.
+This project is developed and maintained by **Komal Rauthan**.
